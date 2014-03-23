@@ -4,7 +4,7 @@
 import math
 
 # HEAP
-def partent(i):
+def parent(i):
 	return int(math.floor((i-1)/2))
 
 def left(i):
